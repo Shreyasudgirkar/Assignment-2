@@ -1,2 +1,3 @@
 Hello 
-This is from test server
+This is from test server.
+How are you.
